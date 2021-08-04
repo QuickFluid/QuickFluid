@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @QuickFluid
+- 👀 I’m interested in game development.
+- 🌱 I’m currently learning JavaScript, Python.
+- 💞️ I’m looking to collaborate on nothing ATM.
+- 📫 How to reach me on Discord: QuickFluid#3786
+- 📫 How to reach me on Email: microcat8@gmail.com
